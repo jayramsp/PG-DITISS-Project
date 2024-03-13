@@ -5,8 +5,8 @@ GuardDuty is an AWS managed Threat detection service and customers speak a lot a
 
 PREREQUISITES:
 
-i)GuardDuty
-ii)EC2
-iii)CloudWatch
-iv)IAM
-v)AWS Lambda
+i) GuardDuty
+ii) EC2
+iii) CloudWatch
+iv) IAM
+v) AWS Lambda
