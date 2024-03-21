@@ -12,3 +12,5 @@ iv) IAM
 v) AWS Lambda
 
 **DEMO**
+- Created EC2 instance as web server, database server, and compromised machine to demonstrate an attack scenario in network:
+  
